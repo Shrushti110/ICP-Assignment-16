@@ -26,7 +26,7 @@ h1 {
     left: 20px; 
     }
  .main-content {
-    margin-left:390px;
+    margin-left:130px;
     padding: 40px; 
     }
 .promo {
@@ -43,8 +43,9 @@ h1 {
     font-weight: bold; 
 }
 footer {
-    background: #8B4513; 
-    color: white; position: fixed; 
+    background: #9a107c; 
+    color: white; 
+    position: fixed; 
     bottom: 0;
     width: 100%;
     text-align: center; 
