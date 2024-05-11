@@ -9,7 +9,6 @@ h1 {
     text-align: center; 
     width: 500px;
     border-radius: 70px 2px 70px 2px;
-    
 }
 .name { 
     background: #DEB887; 
@@ -19,5 +18,19 @@ h1 {
     color:darkred;
     width: 180px;
 }
+.container { 
+    position: relative; 
+}
+ .sidebar {
+    position:static;
+    top: 20px; 
+    left: 20px; 
+    width: 200px; 
+    }
+    .main-content {
+         margin-left: 220px;
+          padding: 20px; 
+        }
+
 
 
