@@ -1,0 +1,23 @@
+body{ 
+    font-family: Arial, sans-serif; 
+    padding: 70px;
+}
+h1 { 
+    background-color:darkgoldenrod; 
+    color: rgba(255, 255, 255, 0.589); 
+    padding: 10px 0; 
+    text-align: center; 
+    width: 500px;
+    border-radius: 70px 2px 70px 2px;
+    
+}
+.name { 
+    background: #DEB887; 
+    padding: 10px 0; 
+    position: sticky; 
+    top: 0; 
+    color:darkred;
+    width: 180px;
+}
+
+
