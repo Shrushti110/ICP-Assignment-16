@@ -1,5 +1,6 @@
 body{ 
     font-family: Arial, sans-serif; 
+    background-color: rgb(230, 204, 243);
 }
 h1 { 
     background-color:rgb(157, 115, 8); 
@@ -51,7 +52,6 @@ footer {
     width: 100%;
     text-align: center; 
     padding: 5px 0; 
-   
     }
 
 
