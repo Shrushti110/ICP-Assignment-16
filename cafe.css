@@ -1,6 +1,8 @@
 body{ 
     font-family: Arial, sans-serif; 
     padding: 70px;
+    background-color: lightcoral;
+
 }
 h1 { 
     background-color:darkgoldenrod; 
@@ -9,6 +11,7 @@ h1 {
     text-align: center; 
     width: 500px;
     border-radius: 70px 2px 70px 2px;
+  
 }
 .name { 
     background: #DEB887; 
@@ -27,10 +30,25 @@ h1 {
     left: 20px; 
     width: 200px; 
     }
-    .main-content {
-         margin-left: 220px;
-          padding: 20px; 
-        }
+ .main-content {
+    margin-left: 220px;
+    padding: 20px; 
+    }
+.promo {
+    position: relative; 
+    background: #F5F5DC; 
+    padding: 10px; 
+    margin-top: 20px; 
+    }
+.promo:before { 
+    content: 'Special Offer!'; 
+    position: absolute;
+    top: -20px; 
+    left: 10px; 
+    font-weight: bold; 
+}
+
+
 
 
 
