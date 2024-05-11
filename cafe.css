@@ -2,8 +2,8 @@ body{
     font-family: Arial, sans-serif; 
 }
 h1 { 
-    background-color:darkgoldenrod; 
-    color: rgba(255, 255, 255, 0.589); 
+    background-color:rgb(157, 115, 8); 
+    color: rgba(218, 229, 9, 0.841); 
     padding: 10px 0; 
     text-align: center; 
    }
@@ -12,13 +12,14 @@ h1 {
     padding: 20px 0; 
     position: sticky; 
     top: 0; 
-    margin-left: 300px;
+    margin-left: 650px;
     text-align: center;
     color:darkred;
     width: 180px;
 }
 .container { 
     position: relative; 
+    margin-left:350px;
 }
  .sidebar {
     position:static;
@@ -31,7 +32,7 @@ h1 {
     }
 .promo {
     position: relative; 
-    background: #F5F5DC; 
+   
     padding: 10px; 
     margin-top: 20px; 
     }
@@ -43,7 +44,7 @@ h1 {
     font-weight: bold; 
 }
 footer {
-    background: #9a107c; 
+    background: #b06311; 
     color: white; 
     position: fixed; 
     bottom: 0;
